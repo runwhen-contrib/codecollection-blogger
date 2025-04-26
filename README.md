@@ -15,7 +15,7 @@ A tool for generating blog posts from tasks in the RunWhen Code Collections. The
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/runwhen-contrib/codecollection-blogger
 cd codecollection-blogger
 ```
 
